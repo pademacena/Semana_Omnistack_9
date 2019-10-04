@@ -1,6 +1,14 @@
 # Semana_Oministack9
  Projeto desenvolvido durante a semana Omnistack 9 .
  
+ ### O Projeeto
+ 
+ A ideia do projeto foi desenvolver uma aplicacao simples que tivesse a funcao parecida do AirBnB de fazer reservas, porem o usuario iria procurar um lugar para programar . Entao foi dividido e definido que as empresas que iriam ter lugares para alugar iriam utilizar  via Web e os usuarios que iriam alugar os espacos iriam utilizar a versao Mobile.
+ 
+ Quando o Usuario usa o Aplicativo Mobile ele cai de inicio em uma tela de login onde ele coloca seu email e quais tecnologias ele utiliza, em seguida ele e redirecionado para uma outra pagina onde mostra os lugares que possuem pessoas que trabalham com essa tecnologia , o nome do lugar e o valor cobrado por dia, quando ele seleciona um lugar ele vai para uma pagina de solicitacao onde ele soliciata qual data ele quer usar o logal para trabalhar . Essa solicitacao e enviada para a empresa que esta colocando o lugar a disposicao para que ele Aceite ou Recuse a reserva.
+ 
+ Na parte Web de inicio a empresa colcoa somente o email, quando ele acessa ele encontra a pagina de Spots( espaco que ele coloca os lugares que ele tem a disposicao), ali ele consegue adicionar um lugar, colocando imagem, nome do lugar, e o valor da diaria. Quando o usuario do app mobile faz uma reserva aparece uma mensagem automaticamente no painel da empresa informando quem e o usuario , qual espaco ele quer reservar e qual a data e a empresa pode Aceitar ou Recusar a reserva.
+ 
  # Dependencias
 
  ### BackEnd - NodeJS
