@@ -42,6 +42,9 @@
 
 - MongoDB
 
+### Instalacao das dependencias
+
+As dependencias foram todas instaladas utilizando o comando yarn
 ```
-yarn add
+yarn add <dependencia>
 ```
